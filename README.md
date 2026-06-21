@@ -1,18 +1,9 @@
-## Capturas de pantalla
+### Support Toolkit
 
 ### Menú principal
 
 ![Menú principal](screenshots/menu.png)
 
-### Prueba de id
-
-![Id](screenshots/id.png)
-
-### Visualización de logs
-
-![Logs](screenshots/logs.png)
-
-Support Toolkit
 
 Herramienta de soporte técnico desarrollada en Bash para Linux.
 
@@ -31,3 +22,12 @@ Interfaz interactiva basada en menú
 
 
 Proyecto realizado como práctica de Bash y soporte técnico Linux.
+
+### Prueba de id
+
+![Id](screenshots/id.png)
+
+### Visualización de logs
+
+![Logs](screenshots/logs.png)
+
