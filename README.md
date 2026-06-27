@@ -22,6 +22,25 @@ Interfaz interactiva basada en menú
 
 
 Proyecto realizado como práctica de Bash y soporte técnico Linux.
+ ///////////////////////////////////////////////////////////
+Technical Support Toolkit developed in Bash for Linux.
+
+This project was created to practice Bash scripting, basic Linux system administration, and the automation of common technical support tasks.
+
+## Features
+
+* Display the system's IP address
+* Check disk usage
+* View RAM usage
+* Show currently logged-in users
+* Perform connectivity tests using ping
+* Restart services using systemctl
+* View running system processes
+* Log actions to a log file
+* Interactive menu-based interface
+
+Project developed as a Bash scripting and Linux technical support practice exercise.
+
 
 ### Prueba de id
 
